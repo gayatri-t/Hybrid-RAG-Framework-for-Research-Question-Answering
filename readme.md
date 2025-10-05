@@ -1,4 +1,4 @@
-A Hybrid Retrieval-Augmented Generation (RAG) System for Research Question Answering*
+A Hybrid Retrieval-Augmented Generation (RAG) System for Research Question Answering
 
 ## 🚀 Overview
 This repository presents a **hybrid RAG system** that enables research-focused question answering by combining:
