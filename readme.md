@@ -15,7 +15,7 @@ The system provides **concise answers with citations** from papers or online sou
 - 🔎 Chunk & embed documents using `sentence-transformers`
 - 🗂️ Build and persist a FAISS vector database
 - 🌐 Retrieve from online sources with Tavily API
-- 🧠 Generate contextual answers with HuggingFace LLMs (`flan-t5-base` by default)
+- 🧠 Generate contextual answers with HuggingFace LLMs (`flan-t5-large` by default)
 - 📌 Cite sources for transparency
 - 🖥️ Interactive Q&A mode in terminal
 
