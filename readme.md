@@ -1,7 +1,7 @@
 A Hybrid Retrieval-Augmented Generation (RAG) System for Research Question Answering*
 
 ## 🚀 Overview
-ScholarRAG is a **hybrid RAG system** that enables research-focused question answering by combining:
+This repository presents a **hybrid RAG system** that enables research-focused question answering by combining:
 - **Local collection of research papers** (via Excel/PDF/links)
 - **Online retrieval** (via Tavily API)
 - **Contextual response generation** (using HuggingFace LLMs)
